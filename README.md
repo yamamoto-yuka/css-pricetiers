@@ -1,1 +1,1 @@
-# css-pricetiers
+# Pricing Panel
